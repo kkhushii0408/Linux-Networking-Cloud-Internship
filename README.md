@@ -1,17 +1,64 @@
-# linux, networking & cloud infrastructure internship
+# Linux, Networking & Cloud Infrastructure Internship
+
+## About the Project
+This repository contains practical work completed during Module 2 of my internship at Codomax Digital.
+
+## Technologies and Tools
+- Ubuntu Linux (WSL2)
+- Linux Terminal
+- Git and GitHub
+- SSH
+- UFW Firewall
+- Nginx Web Server
+- HTML and CSS
+
+## Practical Work Completed
+
+### 1. Linux Fundamentals
+- Basic Linux commands
+- File and directory management
+- File permissions
+- User and group management
+- Process management
+
+### 2. Networking
+- IP address configuration
+- Network interfaces
+- DNS resolution
+- Ping and connectivity testing
+- Network routing
+- TCP and UDP ports
+
+### 3. SSH and Security
+- SSH key generation
+- Public and private keys
+- SSH file permissions
+- Firewall basics
+
+### 4. Web Server Deployment
+- Nginx installation
+- Starting and checking Nginx
+- Creating an HTML webpage
+- Local website hosting
+- HTTP response testing
+
+### 5. Version Control
+- Git installation and configuration
+- GitHub repository preparation
+
+## Project Folder Structure
+- linux-commands/
+- networking/
+- ssh/
+- nginx-website/
+- screenshots/
+- documentation/
+
+## Learning Outcomes
+Learned practical Linux administration, networking, SSH authentication, firewall basics, Git, and Nginx web server deployment.
 
 ## Internship Details
-organization: codomax digital
-module: 2 -linux, networking & cloude infrastructure
-Environment: ubuntu on wsl2
+Organization: Codomax Digital
+Module: Linux, Networking & Cloud Infrastructure
 
-## linux directory practised
-_file and directory management
-_file permissions using chmod
-_user and group management
-_process management using ps and top
-_system information and disk usage
-##Networking practicals - IP address, ping, DNS and internet connectinity
-##Nginx web server - installation, configuration and local website hosting
-##SSH- SSH key generation and secure access basics
-## Cloud Infrastructure- basic cloud concept and infrastructure learning
+Note: The website was deployed locally using Nginx on Ubuntu WSL2. No paid cloud VM was created.
